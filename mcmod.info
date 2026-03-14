@@ -1,0 +1,16 @@
+[
+{
+  "modid": "fogclient",
+  "name": "FogClient",
+  "description": "",
+  "version": "1.0",
+  "mcversion": "1.8.9",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["FogClient"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]

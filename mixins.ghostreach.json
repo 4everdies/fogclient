@@ -1,0 +1,12 @@
+{
+  "package": "com.fogclient.mixin",
+  "refmap": "mixins.fogclient.refmap.json",
+  "target": "@env(DEFAULT)",
+  "compatibilityLevel": "JAVA_8",
+  "mixins": [
+    "MixinNetworkManager"
+  ],
+  "client": [
+    "MixinEntityRenderer"
+  ]
+}
