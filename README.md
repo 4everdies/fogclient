@@ -23,4 +23,4 @@ crystalpvp.ru/slinky/slinkycrack.zip
 ### Contributors
 - @Eufake - making this client
 - @4everdies - cracking
-- REYZINHOhz_ - share the .exe
+- REYZINHOhz_ - share the .jar
