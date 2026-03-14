@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="612" height="549" alt="Screenshot_1" src="https://github.com/user-attachments/assets/63bbd21d-386b-479f-9f2b-6b69f83caccd">
+  <img width="612" height="549" alt="Screenshot_1" src="https://cdn.discordapp.com/attachments/1447320494926991582/1482475278088540391/image.png?ex=69b71631&is=69b5c4b1&hm=e772cced0158fe148df44478cebc1b144c5d9e6f1cd2610f083dca6af98b9c9a&">
 </p>
 
 <h1 align="center">FogClient Source</h1>
